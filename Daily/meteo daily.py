@@ -21,12 +21,10 @@ def city_scan():
         try:
             tools.driver.execute_script("arguments[0].scrollIntoView();", cities[city_indice])
             time.sleep(random.uniform(1.5, 4.0))
-            print("1")
             webdriver.ActionChains(tools.driver).move_to_element(cities[city_indice]).click(cities[city_indice]).perform()
 
             time.sleep(random.uniform(1.5, 4.0)+2)
             tools.scrape_page()
-            print("2")
             tools.go_back("department")
             time.sleep(random.uniform(1.5, 4.0))
             cities = tools.clear_map(clear_cities=False)
@@ -96,4 +94,4 @@ def country_scan():
 time.sleep(2)
 country_scan()
 
-tools.df.to_csv('Jan12.csv',index=False)
+tools.df.to_csv('meteo.csv',index=False)
