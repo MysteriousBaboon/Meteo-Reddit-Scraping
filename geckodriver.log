@@ -1,0 +1,13 @@
+1610550856341	geckodriver	INFO	Listening on 127.0.0.1:60295
+1610550856347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKXOaD6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610550858937	Marionette	INFO	Listening on port 32905
+1610550858992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.weathercrave.com/weather-forecast-france/city-12077/weather-forecast-saint-amand-montrond-today, line 2298: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.weathercrave.com/weather-forecast-france/city-6670/weather-forecast-chartres-today, line 2298: TypeError: document.querySelector(...) is null
+1610550897942	Marionette	INFO	Stopped listening on port 32905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
