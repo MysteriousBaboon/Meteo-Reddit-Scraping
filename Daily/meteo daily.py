@@ -5,7 +5,6 @@ import sys
 import tools
 
 from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
 
 tools.links["country"] = 'https://www.weathercrave.com/weather-forecast-world/country-63/weather-forecast-france-today'
 tools.init()
