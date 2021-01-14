@@ -15,3 +15,9 @@
 ## How to use it
 - Run "pip3 install -r requirements.txt"
 - The folder contain the data scrapped from subredditstats. 4 csv containing posts/comments per day for 2019/2020 and the script used for getting it.
+
+
+
+
+## Precisions
+You need to add your browserdriver to the path for using the daily meteo scraping script, and you need to change the function webdriver.Firefox in tools to your browser name.
