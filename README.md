@@ -15,6 +15,7 @@
 ## How to use it
 - Run "pip3 install -r requirements.txt"
 - The Reddit folder contain the data scrapped from subredditstats. 4 csv containing posts/comments per day for 2019/2020 and the script used for getting it.
+- The Meteo folder coutain gathering for all historical data, each month for 10 year. And each day for 2019.
 - The Daily folder contain a meteo file that scrape all of the french meteo today, it uses the tools module.There is also a reddit file that is use to scrape daily subreddit France stat. The data.csv contains the data for reddit, the unfinished.csv contains the data of the meteo if it crashs and the meteo.csv coutain the data if it doesn't.
 
 
