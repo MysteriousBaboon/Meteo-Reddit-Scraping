@@ -23,3 +23,4 @@
 
 ## Precisions
 You need to add your browserdriver to the path for using the daily meteo scraping script, and you need to change the function webdriver.Firefox in tools to your browser name.
+We used the humidex indice to have an indicator, it's use to get a felt temperature by season https://en.wikipedia.org/wiki/Humidex
