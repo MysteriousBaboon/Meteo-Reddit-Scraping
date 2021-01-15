@@ -17,9 +17,11 @@
 - The Reddit folder contain the data scrapped from subredditstats. 4 csv containing posts/comments per day for 2019/2020 and the script used for getting it.
 - The Meteo folder coutain gathering for all historical data, each month for 10 year. And each day for 2019.
 - The Daily folder contain a meteo file that scrape all of the french meteo today, it uses the tools module.There is also a reddit file that is use to scrape daily subreddit France stat. The data.csv contains the data for reddit, the unfinished.csv contains the data of the meteo if it crashs and the meteo.csv coutain the data if it doesn't.
+- In the analysis folder there is our start of analysis.
 
 
 
 
 ## Precisions
 You need to add your browserdriver to the path for using the daily meteo scraping script, and you need to change the function webdriver.Firefox in tools to your browser name.
+We used the humidex indice to have an indicator, it's use to get a felt temperature by season https://en.wikipedia.org/wiki/Humidex
