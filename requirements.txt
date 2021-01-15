@@ -38,3 +38,5 @@ tqdm==4.56.0
 tzlocal==2.1
 urllib3==1.26.2
 webdriverdownloader==1.1.0.3
+
+matplotlib~=3.3.3
