@@ -1,6 +1,88 @@
 Date,Hour,Country,Region,Department,City,Temperature,Felt Temp,Wind,Sky
-14/01/2021,20:15,France,CENTRE-LOIRE VALLEY,CHER,Saint-Amand-Montrond,8°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
-14/01/2021,20:15,France,CENTRE-LOIRE VALLEY,CHER,Bourges,8°,Feels Like 4°,55km/h,Faibles averses ou pluie faible intermittente
-14/01/2021,20:16,France,CENTRE-LOIRE VALLEY,CHER,Sancerre,8°,Feels Like 3°,50km/h,Faibles averses ou pluie faible intermittente
-14/01/2021,20:16,France,CENTRE-LOIRE VALLEY,CHER,Argent-sur-Sauldre,8°,Feels Like 4°,50km/h,"Averses, ou arrivée de la pluie"
-14/01/2021,20:16,France,CENTRE-LOIRE VALLEY,CHER,Sancoins,8°,Feels Like 3°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:32,France,CENTRE-LOIRE VALLEY,CHER,Saint-Amand-Montrond,10°,Feels Like 6°,65km/h,Pluie faible
+14/01/2021,14:32,France,CENTRE-LOIRE VALLEY,CHER,Bourges,9°,Feels Like 5°,60km/h,Pluie
+14/01/2021,14:33,France,CENTRE-LOIRE VALLEY,CHER,Sancerre,8°,Feels Like 3°,60km/h,Pluie faible
+14/01/2021,14:33,France,CENTRE-LOIRE VALLEY,CHER,Argent-sur-Sauldre,8°,Feels Like 5°,65km/h,Pluie
+14/01/2021,14:33,France,CENTRE-LOIRE VALLEY,CHER,Sancoins,8°,Feels Like 4°,65km/h,Pluie faible
+14/01/2021,14:33,France,CENTRE-LOIRE VALLEY,CHER,La Chapelle-d'Angillon,8°,Feels Like 4°,60km/h,Pluie
+14/01/2021,14:34,France,CENTRE-LOIRE VALLEY,CHER,Châteauneuf-sur-Cher,9°,Feels Like 5°,75km/h,Pluie faible
+14/01/2021,14:34,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,Châteaudun,9°,Feels Like 4°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:34,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,Dreux,10°,Feels Like 5°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:35,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,Nogent-le-Rotrou,9°,Feels Like 6°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:35,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,Les Villages Vovéens,10°,Feels Like 5°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:35,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,La Loupe,8°,Feels Like 3°,60km/h,Pluie faible
+14/01/2021,14:35,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,Maintenon,10°,Feels Like 5°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:36,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,Cloyes-sur-le-Loir,9°,Feels Like 4°,65km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:36,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,Brou,9°,Feels Like 5°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:36,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,Châteauneuf-en-Thymerais,9°,Feels Like 4°,65km/h,Pluie faible
+14/01/2021,14:37,France,CENTRE-LOIRE VALLEY,EURE-ET-LOIR,La Ferté-Vidame,9°,Feels Like 4°,60km/h,Pluie faible
+14/01/2021,14:37,France,CENTRE-LOIRE VALLEY,INDRE,Issoudun,9°,Feels Like 4°,60km/h,Pluie faible
+14/01/2021,14:37,France,CENTRE-LOIRE VALLEY,INDRE,Le Blanc,9°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:38,France,CENTRE-LOIRE VALLEY,INDRE,La Châtre,9°,Feels Like 4°,65km/h,Pluie faible
+14/01/2021,14:38,France,CENTRE-LOIRE VALLEY,INDRE,Saint-Gaultier,9°,Feels Like 4°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:38,France,CENTRE-LOIRE VALLEY,INDRE,Levroux,9°,Feels Like 4°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:38,France,CENTRE-LOIRE VALLEY,INDRE,Mézières-en-Brenne,9°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:39,France,CENTRE-LOIRE VALLEY,INDRE,Écueillé,9°,Feels Like 4°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:39,France,CENTRE-LOIRE VALLEY,INDRE,Saint-Christophe-en-Bazelle,9°,Feels Like 5°,65km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:39,France,CENTRE-LOIRE VALLEY,INDRE,Saint-Civran,8°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:40,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Amboise,10°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:40,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Chinon,10°,Feels Like 6°,50km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:40,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Langeais,10°,Feels Like 5°,50km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:41,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Château-Renault,9°,Feels Like 4°,65km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:41,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Richelieu,10°,Feels Like 5°,50km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:41,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Saint-Branchs,10°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:41,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Preuilly-sur-Claise,10°,Feels Like 6°,50km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:42,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Loches,9°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:42,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Château-la-Vallière,10°,Feels Like 6°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:42,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Abilly,10°,Feels Like 6°,50km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:43,France,CENTRE-LOIRE VALLEY,INDRE-ET-LOIRE,Neuvy-le-Roi,9°,Feels Like 5°,65km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:43,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Blois,9°,Feels Like 4°,65km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:43,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Romorantin-Lanthenay,9°,Feels Like 5°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:44,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Lamotte-Beuvron,9°,Feels Like 5°,60km/h,Pluie
+14/01/2021,14:44,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Montrichard,9°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:44,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Contres,9°,Feels Like 5°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:45,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Salbris,9°,Feels Like 5°,60km/h,Pluie
+14/01/2021,14:45,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Mer,9°,Feels Like 4°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:45,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Savigny-sur-Braye,9°,Feels Like 5°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:45,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Ouzouer-le-Marché,9°,Feels Like 4°,65km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:46,France,CENTRE-LOIRE VALLEY,LOIR-ET-CHER,Neung-sur-Beuvron,9°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:46,France,CENTRE-LOIRE VALLEY,LOIRET,Montargis,9°,Feels Like 5°,55km/h,Pluie faible
+14/01/2021,14:46,France,CENTRE-LOIRE VALLEY,LOIRET,Pithiviers,9°,Feels Like 4°,55km/h,Pluie faible
+14/01/2021,14:47,France,CENTRE-LOIRE VALLEY,LOIRET,La Ferté-Saint-Aubin,9°,Feels Like 5°,60km/h,Pluie faible
+14/01/2021,14:47,France,CENTRE-LOIRE VALLEY,LOIRET,Châteauneuf-sur-Loire,9°,Feels Like 5°,60km/h,Pluie faible
+14/01/2021,14:47,France,CENTRE-LOIRE VALLEY,LOIRET,Ouzouer-sur-Loire,9°,Feels Like 5°,60km/h,Pluie faible
+14/01/2021,14:48,France,CENTRE-LOIRE VALLEY,LOIRET,Châtillon-sur-Loire,8°,Feels Like 5°,60km/h,Pluie faible
+14/01/2021,14:48,France,CENTRE-LOIRE VALLEY,LOIRET,Aillant-sur-Milleron,8°,Feels Like 3°,60km/h,Pluie faible
+14/01/2021,14:48,France,CENTRE-LOIRE VALLEY,LOIRET,Beaugency,9°,Feels Like 4°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:49,France,ILE-DE-FRANCE,PARIS,Le Pré-Saint-Gervais,10°,Feels Like 7°,55km/h,Pluie
+14/01/2021,14:49,France,ILE-DE-FRANCE,PARIS,15th Arrondissement,10°,Feels Like 5°,55km/h,Pluie faible
+14/01/2021,14:50,France,ILE-DE-FRANCE,SEINE-ET-MARNE,Coulommiers,8°,Feels Like 4°,50km/h,Pluie
+14/01/2021,14:50,France,ILE-DE-FRANCE,SEINE-ET-MARNE,Melun,9°,Feels Like 5°,55km/h,Pluie
+14/01/2021,14:50,France,ILE-DE-FRANCE,SEINE-ET-MARNE,Provins,8°,Feels Like 4°,50km/h,Pluie
+14/01/2021,14:51,France,ILE-DE-FRANCE,SEINE-ET-MARNE,Nemours,9°,Feels Like 6°,60km/h,Pluie faible
+14/01/2021,14:51,France,ILE-DE-FRANCE,SEINE-ET-MARNE,Montereau-Fault-Yonne,9°,Feels Like 5°,55km/h,Pluie
+14/01/2021,14:51,France,ILE-DE-FRANCE,SEINE-ET-MARNE,Meaux,10°,Feels Like 6°,45km/h,Pluie
+14/01/2021,14:51,France,ILE-DE-FRANCE,SEINE-ET-MARNE,Bray-sur-Seine,9°,Feels Like 4°,55km/h,Pluie
+14/01/2021,14:52,France,ILE-DE-FRANCE,SEINE-ET-MARNE,Rozay-en-Brie,11°,Feels Like 7°,55km/h,Pluie
+14/01/2021,14:52,France,ILE-DE-FRANCE,YVELINES,Versailles,9°,Feels Like 5°,60km/h,Pluie faible
+14/01/2021,14:53,France,ILE-DE-FRANCE,YVELINES,Rambouillet,9°,Feels Like 5°,60km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:53,France,ILE-DE-FRANCE,YVELINES,Saint-Germain-en-Laye,10°,Feels Like 7°,60km/h,Pluie faible
+14/01/2021,14:53,France,ILE-DE-FRANCE,YVELINES,Montfort-l'Amaury,9°,Feels Like 4°,65km/h,Pluie faible
+14/01/2021,14:54,France,ILE-DE-FRANCE,YVELINES,Houdan,10°,Feels Like 5°,60km/h,Pluie faible
+14/01/2021,14:54,France,ILE-DE-FRANCE,ESSONNE,Évry,9°,Feels Like 5°,55km/h,Pluie faible
+14/01/2021,14:55,France,ILE-DE-FRANCE,ESSONNE,Étampes,9°,Feels Like 6°,60km/h,Pluie faible
+14/01/2021,14:55,France,ILE-DE-FRANCE,ESSONNE,Dourdan,9°,Feels Like 6°,65km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:55,France,ILE-DE-FRANCE,ESSONNE,Arpajon,9°,Feels Like 6°,60km/h,Pluie faible
+14/01/2021,14:55,France,ILE-DE-FRANCE,ESSONNE,Milly-la-Forêt,9°,Feels Like 5°,60km/h,Pluie faible
+14/01/2021,14:56,France,ILE-DE-FRANCE,ESSONNE,Limours,9°,Feels Like 4°,65km/h,Pluie faible
+14/01/2021,14:56,France,ILE-DE-FRANCE,HAUTS-DE-SEINE,Antony,10°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:57,France,ILE-DE-FRANCE,HAUTS-DE-SEINE,Nanterre,10°,Feels Like 7°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:57,France,ILE-DE-FRANCE,HAUTS-DE-SEINE,Colombes,10°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:57,France,ILE-DE-FRANCE,HAUTS-DE-SEINE,Clamart,9°,Feels Like 5°,55km/h,Pluie faible intermittente ou faibles averses
+14/01/2021,14:58,France,ILE-DE-FRANCE,SEINE-SAINT-DENIS,Tremblay-en-France,9°,Feels Like 5°,50km/h,Pluie
+14/01/2021,14:58,France,ILE-DE-FRANCE,SEINE-SAINT-DENIS,Noisy-le-Sec,10°,Feels Like 7°,55km/h,Pluie
+14/01/2021,14:58,France,ILE-DE-FRANCE,SEINE-SAINT-DENIS,Clichy-sous-Bois,9°,Feels Like 6°,50km/h,Pluie
+14/01/2021,14:59,France,ILE-DE-FRANCE,VAL-DE-MARNE,Créteil,10°,Feels Like 6°,55km/h,Pluie
+14/01/2021,14:59,France,ILE-DE-FRANCE,VAL-DE-MARNE,Villeneuve-Saint-Georges,10°,Feels Like 5°,55km/h,Pluie
+14/01/2021,14:59,France,ILE-DE-FRANCE,VAL-DE-MARNE,Ivry-sur-Seine,10°,Feels Like 7°,55km/h,Pluie
+14/01/2021,15:00,France,ILE-DE-FRANCE,VAL-DE-MARNE,Noiseau,10°,Feels Like 6°,55km/h,Pluie
